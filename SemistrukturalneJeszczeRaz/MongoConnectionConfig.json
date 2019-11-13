@@ -1,0 +1,9 @@
+{
+  "BookCollectionName": "Ksiazki",
+  "DatabaseName": "Biblioteka",
+  "Host": "localhost",
+  "Login": "",
+  "Password": "",
+  "Port": "27017",
+  "UserCollectionName": "Userzy"
+}

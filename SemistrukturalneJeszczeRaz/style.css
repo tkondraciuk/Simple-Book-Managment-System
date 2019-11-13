@@ -1,0 +1,215 @@
+﻿body, div, p, ul, li, h1, h2, h3, form, fieldset, textarea {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #eff5ef;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.search {
+    text-align: center;
+    padding: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-bottom: 1px solid #404040;
+    border-radius: 5px;
+}
+
+.bigTitle {
+    text-align: center;
+    padding: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.search {
+    text-align: center;
+    padding: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-bottom: 1px solid #404040;
+    border-radius: 5px;
+}
+
+.clear {
+    clear: both;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: auto;
+}
+
+.content {
+    width: 100%;
+    background-color: #eff5ef;
+    border: 1px solid #404040;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    height: 740px;
+}
+
+.footer {
+    height: 50px;
+    width: 100%;
+    background-color: #9fc69f;
+    color: #404040;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #404040;
+}
+
+    .footer h3 {
+        padding: 15px;
+        text-align: center;
+    }
+
+.navbar {
+    overflow: hidden;
+    background-color: #9fc69f;
+    border: 1px solid #404040;
+    border-radius: 5px 5px 5px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    .navbar a {
+        float: left;
+        font-size: 16px;
+        font-weight: bold;
+        color: #404040;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+    .dropdown .dropbtn {
+        font-size: 16px;
+        border: none;
+        outline: none;
+        color: #404040;
+        font-weight: bold;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+
+    .navbar a:hover, .dropdown:hover .dropbtn {
+        background-color: #f18e8e;
+        border: 0;
+        border-radius: 5px 5px 5px 5px;
+    }
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #404040;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #eff5ef;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        float: none;
+        color: #404040;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+        .dropdown-content a:hover {
+            background-color: #f18e8e;
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.formAdd div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.textbox {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.dropdownlist {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.submit {
+    width: 50%;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #9fc69f;
+    color: #404040;
+    padding: 14px 20px;
+    margin: 8px 250px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #404040;
+}
+
+    .submit:hover {
+        background-color: #f18e8e;
+    }
+
+.grid {
+    overflow-y: scroll;
+    height: 635px;
+}
+
+.grid2 {
+    height: 635px;
+}
+
+.myGridview {
+    width: 100%;
+}
+
+.rows {
+    height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    .rows:hover {
+        background-color: #f18e8e;
+    }
+
+.gridHeader {
+    background-color: #9fc69f;
+    text-align: center;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #404040;
+}
