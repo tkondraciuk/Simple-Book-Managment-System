@@ -4,6 +4,6 @@
   "Login": "",
   "Password": "",
   "DatabaseName": "Library",
-  "UserCollectionName": "Users"
   "BookCollectionName": "Books",
+  "UserCollectionName": "Users"
 }
