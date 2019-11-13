@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SemistrukturalneJeszczeRaz", "SemistrukturalneJeszczeRaz\", "{7A4C8DF1-8C13-498D-8A8F-7BA63460C776}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Book Management System", "Book Management System\", "{7A4C8DF1-8C13-498D-8A8F-7BA63460C776}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_60008"
-		Debug.AspNetCompiler.PhysicalPath = "SemistrukturalneJeszczeRaz\"
+		Debug.AspNetCompiler.PhysicalPath = "Book Management System\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60008\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_60008"
-		Release.AspNetCompiler.PhysicalPath = "SemistrukturalneJeszczeRaz\"
+		Release.AspNetCompiler.PhysicalPath = "Book Management System\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60008\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "60008"
-		SlnRelativePath = "SemistrukturalneJeszczeRaz\"
+		SlnRelativePath = "Book Management System\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
